@@ -1,2 +1,2 @@
-# wello-world
+# hello-world
 Обучение по GitHub
